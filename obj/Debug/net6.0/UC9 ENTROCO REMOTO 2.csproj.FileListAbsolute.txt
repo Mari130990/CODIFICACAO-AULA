@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\bin\Debug\net6.0\UC9 ENTROCO REMOTO 2.exe
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\bin\Debug\net6.0\UC9 ENTROCO REMOTO 2.deps.json
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\bin\Debug\net6.0\UC9 ENTROCO REMOTO 2.runtimeconfig.json
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\bin\Debug\net6.0\UC9 ENTROCO REMOTO 2.dll
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\bin\Debug\net6.0\UC9 ENTROCO REMOTO 2.pdb
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\UC9 ENTROCO REMOTO 2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\UC9 ENTROCO REMOTO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\UC9 ENTROCO REMOTO 2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\UC9 ENTROCO REMOTO 2.AssemblyInfo.cs
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\UC9 ENTROCO REMOTO 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\UC9 ENTROCO REMOTO 2.dll
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\refint\UC9 ENTROCO REMOTO 2.dll
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\UC9 ENTROCO REMOTO 2.pdb
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\UC9 ENTROCO REMOTO 2.genruntimeconfig.cache
+C:\Users\user\Desktop\UC9 ENTROCO REMOTO 2\obj\Debug\net6.0\ref\UC9 ENTROCO REMOTO 2.dll
