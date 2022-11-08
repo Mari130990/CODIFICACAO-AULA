@@ -8,9 +8,12 @@ namespace UC9_ENTROCO_REMOTO_2.Classes
 {
     public class PessoaFisica : Pessoa, IPessoaFisica
     {
-
+        //private object novaPf;
 
         public string? cpf { get; set; }
+
+
+
 
         public DateTime dataNasc { get; set; }
 
@@ -44,9 +47,41 @@ namespace UC9_ENTROCO_REMOTO_2.Classes
             }
         }
 
-        public bool ValidarDataNasc(DateTime dataNasc)
+        bool IPessoaFisica.ValidarDataNasc(DateTime dataNasc)
         {
-            throw new NotImplementedException();
+            DateTime dataAtual = DateTime.Today;
+
+            double anos = (dataNasc - dataAtual).TotalDays / 365;
+
+            Console.WriteLine(anos);
+
+            if (anos >= 18)
+
+            {
+                return true;
+            }
+
+            return false;
+
         }
+
+        public bool ValidarDataNasc(String dataNasc)
+        {
+           return true;
+        }
+         public bool ValidarDataNasc(DateTime dataNasc){
+
+            return true;
+         }   
+           
+
+          
+
     }
+
 }
+
+
+
+
+

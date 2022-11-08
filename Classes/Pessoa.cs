@@ -9,7 +9,7 @@ namespace UC9_ENTROCO_REMOTO_2.Classes
 
         public float rendimento { get; set; }
 
-        public string? endereco { get; set; }
+        public Endereco? endereco { get; set; }
 
         public abstract float CalcularImposto(float rendimento);
     
